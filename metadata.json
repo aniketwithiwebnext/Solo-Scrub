@@ -1,0 +1,6 @@
+{
+  "name": "Solo Scrub",
+  "description": "Premium clinical care sponge bath systems for family caregiving, post-operative recovery, and sensitive skin care. Experience dignity-first cleansing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
